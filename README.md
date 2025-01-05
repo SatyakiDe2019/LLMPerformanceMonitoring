@@ -1,6 +1,6 @@
 # Building the locally optimized Python-based LLM Performance Monitoring AI App (LLM-PMAA)
 
-![Logos.jpeg](Logos.jpeg)
+![Logo.jpeg](Logo.jpeg)
 
 ## About this package
 
