@@ -64,6 +64,10 @@ pip install transformers==4.47.1
 
 ```
 
+And, here is the key stats that was captured -
+
+![FInalStats.jpg](FInalStats.jpg)
+
 ## Screenshots
 
 ![demo.GIF](demo.GIF)
